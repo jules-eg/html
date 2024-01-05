@@ -9,5 +9,6 @@ function naviguer() {
     // Construire l'URL en fonction des valeurs des étapes
     var url = 'http://pastju.com/game/'+etape1 + '/' + etape2 + '/' + etape3 + '/' + etape4;
     console.log('Vous accedez à la page : ' + url);
+    window.location.href = url;
 }
 
