@@ -6,7 +6,15 @@
   width: 200px; /* Largeur de la boîte, vous pouvez ajuster la valeur */
   text-align: center; /* Alignement du texte au centrée*/
 }
-
+#resultat {
+  background-color: #ebe4d9;
+  padding: 20px;
+  border-radius: 15px;
+  align-self: center;
+  width: 90%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
