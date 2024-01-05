@@ -10,9 +10,11 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
+    <h1>YEAHHHHHH!!!!</h1>
+    <p>Very good, you found the first indice, you will know how it's dificult to have informations. It will be harder and harder !</p>
+    <p>With that numbers you can find some pages to go somewere, to other pages. Good luck !</p>
 
-    <div id="resultat"></div>
+    <div id="resultat">4</div>
 
 </body>
 </html>
