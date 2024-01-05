@@ -10,9 +10,11 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
+    <h1>YEAHHHHHH!!!!</h1>
+    <p>Very good, you are smart, it was <a href="https://www.capital.fr/entreprises-marches/disney-mickey-et-minnie-tombent-dans-le-domaine-public-pour-le-meilleur-ou-pour-le-pire-1489708">Mickey et Minnie</a></p>
+    <p>You can click on the link to have more details :)</p>
 
-    <div id="resultat"></div>
+    <div id="resultat">8.</div>
 
 </body>
 </html>
