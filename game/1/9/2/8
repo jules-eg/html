@@ -14,6 +14,8 @@
     <p>Very good, you are smart, it was <a href="https://www.capital.fr/entreprises-marches/disney-mickey-et-minnie-tombent-dans-le-domaine-public-pour-le-meilleur-ou-pour-le-pire-1489708">Mickey et Minnie</a></p>
     <p>You can click on the link to have more details :)</p>
 
+    <div class="next"><h1>X</h1><p>X</p></div>
+
     <div id="resultat">8.</div>
 
 </body>
