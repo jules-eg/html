@@ -10,9 +10,9 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
-
-    <div id="resultat"></div>
+    <h1>Yessss! it was ratatouille, one of your favorites movies :)</h1>
+    <div class="next"><h1>Our song</h1><p>Now you have to find the 4 firsts number of the song for remining us</p></div>
+    <div id="resultat">.78</div>
 
 </body>
 </html>

@@ -10,9 +10,13 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
+    <h1>The QR CODES : </h1>
+    <p>Jules : </p>
+    <img src="jules.png" alt="jules">
+    <p>Jieun : </p>
+    <img src="jieun.png" alt="jieun">
 
-    <div id="resultat"></div>
+    <div id="resultat"><a href="tiket.pdf">The tiket</a></div>
 
 </body>
 </html>

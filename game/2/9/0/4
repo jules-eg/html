@@ -10,9 +10,10 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
+    <h1>Grate, you found the olympics game !</h1>
 
-    <div id="resultat"></div>
+    <div class="next"><h1>movie's duration!</h1><p>CCA GFAGFAGFC AGFAE CGEF GCA GCAGBCACD CGFAECEECDA BFA AF'</p></div>
+    <div id="resultat">18</div>
 
 </body>
 </html>

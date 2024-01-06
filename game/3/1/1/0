@@ -10,9 +10,9 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
-
-    <div id="resultat"></div>
+    <h1>It's marvelous alors ! </h1>
+    <div class="next"><h1>Finishing</h1><p>The first step of our trip is a cassle, butto know where we will go, you have to search the most watched disney in france, we are interesting by the birthday (year) of this movie</p></div>
+    <div id="resultat">77</div>
 
 </body>
 </html>

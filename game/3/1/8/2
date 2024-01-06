@@ -10,9 +10,10 @@
 </head>
 <body>
     <a href="https://pastju.com/game/"><div class="custom-box"><h3>Clic to go home</h3></div></a>
-    <h1>Oh, no.... That page is not good, try again later !</h1>
+    <h1>Grate, you are smart really !</h1>
+    <div class="next"><h1>Do you know me well ?</h1><p>The 2 first numbers is how much i learned the music (including the orchestra now) and the 2 after is from how much years i'm doing handball (playing or juge) </p></div>
 
-    <div id="resultat"></div>
+    <div id="resultat">35</div>
 
 </body>
 </html>
